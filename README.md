@@ -7,3 +7,4 @@
 <a href="https://www.canva.com/design/DAG22-oEBc0/NA0E8QyFJ2f2XrJ-ah_7Ow/edit?utm_content=DAG22-oEBc0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">(Midterms Lecture) Explanation of Redesigning Yahoo Mobile</a>
 
 <a href="https://www.figma.com/design/CKLhiusvG4XJHWrMxPxrgq/Anecito_YahooMobileMail_Midterms?node-id=10-157&t=IP2apxxHln8PdFyv-1">(Midterms Lab) Redesign of Yahoo Mail</a>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/CKLhiusvG4XJHWrMxPxrgq/Anecito_YahooMobileMail_Midterms?node-id=10-157&embed-host=share" allowfullscreen></iframe>
